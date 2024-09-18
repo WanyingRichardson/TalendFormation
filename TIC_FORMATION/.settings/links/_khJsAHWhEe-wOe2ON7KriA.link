@@ -1,0 +1,18 @@
+{
+  "itemId" : "_khJsAHWhEe-wOe2ON7KriA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_eYA60HWyEe-wOe2ON7KriA",
+    "parameterList" : [ {
+      "id" : "_eYLS4XWyEe-wOe2ON7KriA",
+      "name" : "directory"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_eYA60HWyEe-wOe2ON7KriA",
+    "parameterList" : [ {
+      "id" : "_eYLS4XWyEe-wOe2ON7KriA",
+      "name" : "directory"
+    } ]
+  } ]
+}
