@@ -175,6 +175,10 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_HTxjMHTuEe-eArmdCtibvQ - trg_customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
     "id" : "_HTxjMHTuEe-eArmdCtibvQ - trg_sales",
     "version" : "Latest",
     "type" : "schema"
